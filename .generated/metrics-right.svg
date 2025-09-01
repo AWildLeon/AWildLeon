@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="869" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
     <defs>
         <style/>
     </defs>
@@ -25,9 +25,15 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 17 days
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 15 days
+                            Best streak 17 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1021,10 +1027,17 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.96875 0,2.96875 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.96875 1.7,3.96875 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.90625)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.09375 0,1.09375 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.09375 1.7,2.09375 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 5.8125)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1875 0,1.1875 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1875 1.7,2.1875 z"/>
                             </g>
                         </g>
                     </g>
@@ -1039,6 +1052,53 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AWildLeon/Glance-iCal-Events</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed4778c</div>
+                                        <div class="message">Add NixOS usage section to README</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AWildLeon/Glance-iCal-Events</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5670bbc</div>
+                                        <div class="message">Add Nix flake with package and NixOS service overlay
+
+- Add flake.nix with Python package derivation
+- Include service module for NixOS deployment
+- Add wrapper scripts for production (gunicorn) and development
+- Update setup.py for proper Python packaging
+- Add comprehensive NIX_USAGE.md documentation
+- Configure systemd service with security hardening</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1092,144 +1152,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">AWildLeon/betterbahn</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">tracking</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e15d6eb</div>
-                                        <div class="message">feat: add basic dark mode, add docker compose
-
-Add docker compose, add basic dark mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec24ec</div>
-                                        <div class="message">Remove example.env because it's not needed anymore. Update README to remove traefik.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a9fa46</div>
-                                        <div class="message">Update docker-compose/docker-compose.yaml
-
-Co-authored-by: Leon Hubrich &lt;mail@leon-hubrich.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e2f091</div>
-                                        <div class="message">Update README.md
-
-Co-authored-by: Leon Hubrich &lt;mail@leon-hubrich.de&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5af9e98</div>
-                                        <div class="message">Remove traefik docker compose</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9cba10</div>
-                                        <div class="message">Merge branch 'l2xu:main' into main</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2abe5a4</div>
-                                        <div class="message">chore(docker): remove unnecessary copy in base stage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e057a58</div>
-                                        <div class="message">docs(readme): add pnpm installation instructions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03f678e</div>
-                                        <div class="message">build(docker): use pnpm lockfile for dependency install</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#405d27f</div>
-                                        <div class="message">build(deps): add db-hafas-stations to dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#966c6b2</div>
-                                        <div class="message">chore(docker): switch to pnpm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdc2cca</div>
-                                        <div class="message">chore: Add CI/CD, Change Base image to Alpine for Lighter Images.
-
-Add CI/CD, Change Base image to Alpine for Lighter Images.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e65af93</div>
-                                        <div class="message">Remove Unwanted Features as Requested.
-
-Removed scheduled cron job and cosign installation steps from Docker workflow.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65cf83b</div>
-                                        <div class="message">docs: change licence to AGPL-3.0-only</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50753fe</div>
-                                        <div class="message">docs: correct email address in Code of Conduct</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2028c9a</div>
-                                        <div class="message">Correct email address in Code of Conduct</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd18761</div>
-                                        <div class="message">Revert "ci: Disable arm64 platform build due to long build times"
-
-This reverts commit 4852998029c7fe7ede0ddf0dd571eb88d8342d32.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#557baab</div>
-                                        <div class="message">Remove unnessesary branch. (Since ** covers all)
-
-Co-authored-by: Alexander Roidl &lt;34438048+alexanderroidl@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8216d5b</div>
-                                        <div class="message">add basic dark mode, add prettier config to use tabs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b116943</div>
-                                        <div class="message">Disable next telemetry
-Add docker compose files for exposed port and traefik
-Update readme for docker compose</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AWildLeon/betterbahn</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a9a6150</div>
-                                        <div class="message">Add SPDX license identifier to LICENSE file</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2025, 03:18:52 (timezone Europe/Berlin) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Sept 2025, 03:25:38 (timezone Europe/Berlin) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
