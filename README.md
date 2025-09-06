@@ -6,7 +6,7 @@
 
 # Hey, I'm Leon 👋
 
-Sysadmin • Network Overlord • Hobby-Dev  
+Sysadmin • Network Operator • Hobby-Dev  
 AS213579 is mine. I run my own infra because… why not?
 
 I’m basically a **jack of all trades in IT**:  
