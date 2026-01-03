@@ -1,6 +1,7 @@
 # Hey, I'm Leon 👋
 
 Sysadmin • Network Operator • Hobby-Dev
+
 Running my own infrastructure because curiosity scales better than excuses.
 
 I work mostly with Linux (NixOS by choice, not accident), build and operate networks (yes, including BGP and my own ASN), and enjoy automating systems until they behave.
