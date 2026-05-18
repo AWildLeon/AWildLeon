@@ -1,22 +1,24 @@
-# Hey, I'm Leon 👋
+## Hey There, I'm Leon.
 
-Sysadmin • Network Operator • Hobby-Dev
+I run [AS213579](https://bgp.tools/as/213579). my own autonomous system (my little private island on the interwebs), and a monthly bill that makes more sense if you don't think about it too hard.
 
-Running my own infrastructure because curiosity scales better than excuses.
+I taught myself bgp. not because it's fun (it is), but because nobody was going to explain it to me. most of my skills come from RTFM and long nights debugging issues nobody else had.
 
-I work mostly with Linux (NixOS by choice, not accident), build and operate networks (yes, including BGP and my own ASN), and enjoy automating systems until they behave.
-
-I spend my time somewhere between:
-
-* operating ISP-ish infrastructure at home
-* breaking things to understand them
-* fixing them properly afterwards
-
-From small scripts to unnecessarily serious setups — if it’s technical and slightly overkill, I’m probably interested.
+most of my infrastructure runs on a heavily customized version of nixos. I declare what I want. it does what I say. we have an understanding.
+the rest runs proxmox and mostly debian.
 
 ---
 
-### 🌐 Links
+### stack
+`NixOS` `BGP / BIRD2` `Proxmox` `WireGuard` `Docker` `Debian` `Fedora` `C#` and probably some more stuff...
 
-* [AS213579 on bgp.tools](https://bgp.tools/as/213579)
-* [Mail me](mailto:git@leon-hubrich.de)
+### things I build
+- nixpkgs (co)maintainer for [`technitium-dns-server`](https://github.com/NixOS/nixpkgs)
+- [`lhzsh`](https://github.com/awildleon/lhzsh) — my zsh config. oh-my-zsh was too much. barebone was too little.
+- [`glance-ical-events`](https://github.com/AWildLeon/Glance-iCal-Events) — ical event widget for glance.
+- my little 22k nix flake monster (with some cool features, I think I should split the modules out for the public to see).
+
+### contact
+if you know why you're reaching out, i'll know why too.
+
+`git@leon-hubrich.de` · discord `leonderzerstoerer` · matrix `well, this one is on my todo...`
